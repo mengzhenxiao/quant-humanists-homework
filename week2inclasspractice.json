@@ -1,0 +1,60 @@
+{
+    "username": "mx",
+    "name": "mx",
+    "activities":[
+        {
+            "activity": "breakfast",
+            "datetime_est": "2018-01-29 07:30",
+            "location":
+            {
+                "locationName": "Gregorys Coffee",
+                "address": "10 Exchange Pl, Jersey City, NJ 07302",
+                "lat": 40.42593,
+                "lon": -74.01586
+            },
+            "properties":
+            {
+                "satisfying": "TRUE",
+                "review": "Cafe was good.",
+                "rating_of_5": 4.5,
+                "additionalNotes": "NULL"
+            }
+        },
+        {
+            "activity": "shopping",
+            "datetime_est": "2018-01-29 12:45",
+            "location":
+            {
+                "locationName": "Uniqlo Soho",
+                "address": "546 Broadway, New York, NY 10012",
+                "lat": 40.723427,
+                "lon": -73.5953
+            },
+            "properties":
+            {
+                "satisfying": "TRUE",
+                "review": "Big sale!",
+                "rating_of_5": 4.5,
+                "additionalNotes": "NULL"
+            }
+        },
+        {
+            "activity": "afternoon tea",
+            "datetime_est": "2018-01-29 17:30",
+            "location":
+            {
+                "locationName": "Sobaya",
+                "address": "229 E 9th St, New York, NY 10003",
+                "lat": 40.729604,
+                "lon": -73.59164
+            },
+            "properties":
+            {
+                "satisfying": "TRUE",
+                "review": "Tasty fried chicken.",
+                "rating_of_5": 4,
+                "additionalNotes": "NULL"
+            }
+        }
+    ]
+}
