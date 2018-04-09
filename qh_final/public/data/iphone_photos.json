@@ -1,0 +1,2007 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9959,40.726 ]
+    },
+    "properties": {
+    "file_name":"IMG_0498.JPG",
+    "date":"2018-03-03",
+    "time":"11:28 AM",
+    "content":"study",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9959,40.726 ]
+    },
+    "properties": {
+    "file_name":"IMG_0499.JPG",
+    "date":"2018-03-03",
+    "time":"11:28 AM",
+    "content":"study",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9959,40.726 ]
+    },
+    "properties": {
+    "file_name":"IMG_0500.JPG",
+    "date":"2018-03-03",
+    "time":"11:28 AM",
+    "content":"study",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9959,40.726 ]
+    },
+    "properties": {
+    "file_name":"IMG_0501.JPG",
+    "date":"2018-03-03",
+    "time":"11:28 AM",
+    "content":"study",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9959,40.726 ]
+    },
+    "properties": {
+    "file_name":"IMG_0502.JPG",
+    "date":"2018-03-03",
+    "time":"11:29 AM",
+    "content":"study",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9959,40.726 ]
+    },
+    "properties": {
+    "file_name":"IMG_0503.JPG",
+    "date":"2018-03-03",
+    "time":"11:30 AM",
+    "content":"study",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0352,40.719 ]
+    },
+    "properties": {
+    "file_name":"IMG_0516.JPG",
+    "date":"2018-03-04",
+    "time":"11:29 AM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9969,40.7298 ]
+    },
+    "properties": {
+    "file_name":"IMG_0517.JPG",
+    "date":"2018-03-04",
+    "time":"1:52 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9969,40.7298 ]
+    },
+    "properties": {
+    "file_name":"IMG_0521.JPG",
+    "date":"2018-03-04",
+    "time":"3:24 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0352,40.719 ]
+    },
+    "properties": {
+    "file_name":"IMG_0522.JPG",
+    "date":"2018-03-04",
+    "time":"7:14 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0354,40.7193 ]
+    },
+    "properties": {
+    "file_name":"IMG_0533.JPG",
+    "date":"2018-03-06",
+    "time":"8:23 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0354,40.7193 ]
+    },
+    "properties": {
+    "file_name":"IMG_0545.JPG",
+    "date":"2018-03-07",
+    "time":"7:10 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0354,40.7193 ]
+    },
+    "properties": {
+    "file_name":"IMG_0547.JPG",
+    "date":"2018-03-08",
+    "time":"8:46 AM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0354,40.7193 ]
+    },
+    "properties": {
+    "file_name":"IMG_0548.JPG",
+    "date":"2018-03-08",
+    "time":"10:59 AM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9981,40.724 ]
+    },
+    "properties": {
+    "file_name":"IMG_0552.JPG",
+    "date":"2018-03-08",
+    "time":"6:46 PM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9981,40.724 ]
+    },
+    "properties": {
+    "file_name":"IMG_0553.JPG",
+    "date":"2018-03-08",
+    "time":"6:46 PM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9981,40.724 ]
+    },
+    "properties": {
+    "file_name":"IMG_0555.JPG",
+    "date":"2018-03-08",
+    "time":"6:49 PM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9981,40.724 ]
+    },
+    "properties": {
+    "file_name":"IMG_0556.JPG",
+    "date":"2018-03-08",
+    "time":"6:53 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.998,40.7234 ]
+    },
+    "properties": {
+    "file_name":"IMG_0557.JPG",
+    "date":"2018-03-08",
+    "time":"7:03 PM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.998,40.7234 ]
+    },
+    "properties": {
+    "file_name":"IMG_0558.JPG",
+    "date":"2018-03-08",
+    "time":"7:07 PM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0567.JPG",
+    "date":"2018-03-08",
+    "time":"8:47 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0569.JPG",
+    "date":"2018-03-08",
+    "time":"9:16 PM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0570.JPG",
+    "date":"2018-03-08",
+    "time":"9:32 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0571.JPG",
+    "date":"2018-03-09",
+    "time":"1:32 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0573.JPG",
+    "date":"2018-03-09",
+    "time":"2:33 PM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0574.JPG",
+    "date":"2018-03-09",
+    "time":"2:34 PM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0578.JPG",
+    "date":"2018-03-09",
+    "time":"7:34 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0579.JPG",
+    "date":"2018-03-09",
+    "time":"8:52 PM",
+    "content":"selfie",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0580.JPG",
+    "date":"2018-03-09",
+    "time":"9:16 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0581.JPG",
+    "date":"2018-03-10",
+    "time":"10:58 AM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0582.JPG",
+    "date":"2018-03-10",
+    "time":"4:11 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0584.JPG",
+    "date":"2018-03-10",
+    "time":"8:22 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0585.JPG",
+    "date":"2018-03-10",
+    "time":"8:36 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0588.JPG",
+    "date":"2018-03-11",
+    "time":"9:43 AM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9969,40.7298 ]
+    },
+    "properties": {
+    "file_name":"IMG_0590.JPG",
+    "date":"2018-03-11",
+    "time":"11:27 AM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9953,40.7287 ]
+    },
+    "properties": {
+    "file_name":"IMG_0593.JPG",
+    "date":"2018-03-11",
+    "time":"4:56 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9957,40.728 ]
+    },
+    "properties": {
+    "file_name":"IMG_0595.JPG",
+    "date":"2018-03-11",
+    "time":"5:57 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9986,40.7246 ]
+    },
+    "properties": {
+    "file_name":"IMG_0597.JPG",
+    "date":"2018-03-11",
+    "time":"5:04 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0005,40.7222 ]
+    },
+    "properties": {
+    "file_name":"IMG_0599.JPG",
+    "date":"2018-03-11",
+    "time":"5:09 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0023,40.7205 ]
+    },
+    "properties": {
+    "file_name":"IMG_0603.JPG",
+    "date":"2018-03-11",
+    "time":"5:13 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9846,40.7541 ]
+    },
+    "properties": {
+    "file_name":"IMG_0616.JPG",
+    "date":"2018-03-12",
+    "time":"12:16 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9846,40.7541 ]
+    },
+    "properties": {
+    "file_name":"IMG_0618.JPG",
+    "date":"2018-03-12",
+    "time":"12:17 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9846,40.7541 ]
+    },
+    "properties": {
+    "file_name":"IMG_0620.JPG",
+    "date":"2018-03-12",
+    "time":"12:21 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9811,40.7525 ]
+    },
+    "properties": {
+    "file_name":"IMG_0624.JPG",
+    "date":"2018-03-12",
+    "time":"12:54 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.753 ]
+    },
+    "properties": {
+    "file_name":"IMG_0628.JPG",
+    "date":"2018-03-12",
+    "time":"12:56 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.753 ]
+    },
+    "properties": {
+    "file_name":"IMG_0631.JPG",
+    "date":"2018-03-12",
+    "time":"12:57 PM",
+    "content":"selfie",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.753 ]
+    },
+    "properties": {
+    "file_name":"IMG_0633.JPG",
+    "date":"2018-03-12",
+    "time":"1:00 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.753 ]
+    },
+    "properties": {
+    "file_name":"IMG_0634.JPG",
+    "date":"2018-03-12",
+    "time":"1:01 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.753 ]
+    },
+    "properties": {
+    "file_name":"IMG_0638.JPG",
+    "date":"2018-03-12",
+    "time":"1:03 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.753 ]
+    },
+    "properties": {
+    "file_name":"IMG_0639.JPG",
+    "date":"2018-03-12",
+    "time":"1:05 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.753 ]
+    },
+    "properties": {
+    "file_name":"IMG_0642.JPG",
+    "date":"2018-03-12",
+    "time":"1:06 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.753 ]
+    },
+    "properties": {
+    "file_name":"IMG_0645.JPG",
+    "date":"2018-03-12",
+    "time":"1:07 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.753 ]
+    },
+    "properties": {
+    "file_name":"IMG_0646.JPG",
+    "date":"2018-03-12",
+    "time":"1:07 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.753 ]
+    },
+    "properties": {
+    "file_name":"IMG_0647.JPG",
+    "date":"2018-03-12",
+    "time":"1:08 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.753 ]
+    },
+    "properties": {
+    "file_name":"IMG_0648.JPG",
+    "date":"2018-03-12",
+    "time":"1:08 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.753 ]
+    },
+    "properties": {
+    "file_name":"IMG_0652.JPG",
+    "date":"2018-03-12",
+    "time":"1:08 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9811,40.7525 ]
+    },
+    "properties": {
+    "file_name":"IMG_0654.JPG",
+    "date":"2018-03-12",
+    "time":"1:13 PM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9809,40.7537 ]
+    },
+    "properties": {
+    "file_name":"IMG_0655.JPG",
+    "date":"2018-03-12",
+    "time":"1:53 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9794,40.7581 ]
+    },
+    "properties": {
+    "file_name":"IMG_0658.JPG",
+    "date":"2018-03-12",
+    "time":"2:12 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9794,40.7581 ]
+    },
+    "properties": {
+    "file_name":"IMG_0659.JPG",
+    "date":"2018-03-12",
+    "time":"2:12 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9794,40.7581 ]
+    },
+    "properties": {
+    "file_name":"IMG_0661.JPG",
+    "date":"2018-03-12",
+    "time":"2:13 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9794,40.7581 ]
+    },
+    "properties": {
+    "file_name":"IMG_0662.JPG",
+    "date":"2018-03-12",
+    "time":"2:13 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9794,40.7581 ]
+    },
+    "properties": {
+    "file_name":"IMG_0663.JPG",
+    "date":"2018-03-12",
+    "time":"2:13 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9794,40.7581 ]
+    },
+    "properties": {
+    "file_name":"IMG_0664.JPG",
+    "date":"2018-03-12",
+    "time":"2:14 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9789,40.7587 ]
+    },
+    "properties": {
+    "file_name":"IMG_0666.JPG",
+    "date":"2018-03-12",
+    "time":"2:23 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9789,40.7587 ]
+    },
+    "properties": {
+    "file_name":"IMG_0667.JPG",
+    "date":"2018-03-12",
+    "time":"2:23 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9789,40.7587 ]
+    },
+    "properties": {
+    "file_name":"IMG_0672.JPG",
+    "date":"2018-03-12",
+    "time":"2:23 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9782,40.7611 ]
+    },
+    "properties": {
+    "file_name":"IMG_0674.JPG",
+    "date":"2018-03-12",
+    "time":"2:37 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9761,40.7612 ]
+    },
+    "properties": {
+    "file_name":"IMG_0693.JPG",
+    "date":"2018-03-12",
+    "time":"3:17 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9761,40.7612 ]
+    },
+    "properties": {
+    "file_name":"IMG_0694.JPG",
+    "date":"2018-03-12",
+    "time":"3:11 PM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9761,40.7612 ]
+    },
+    "properties": {
+    "file_name":"IMG_0696.JPG",
+    "date":"2018-03-12",
+    "time":"3:12 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9761,40.7612 ]
+    },
+    "properties": {
+    "file_name":"IMG_0701.JPG",
+    "date":"2018-03-12",
+    "time":"3:20 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9761,40.7612 ]
+    },
+    "properties": {
+    "file_name":"IMG_0702.JPG",
+    "date":"2018-03-12",
+    "time":"3:23 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9761,40.7612 ]
+    },
+    "properties": {
+    "file_name":"IMG_0703.JPG",
+    "date":"2018-03-12",
+    "time":"3:25 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9761,40.7612 ]
+    },
+    "properties": {
+    "file_name":"IMG_0705.JPG",
+    "date":"2018-03-12",
+    "time":"3:26 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9761,40.7612 ]
+    },
+    "properties": {
+    "file_name":"IMG_0706.JPG",
+    "date":"2018-03-12",
+    "time":"3:27 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9761,40.7612 ]
+    },
+    "properties": {
+    "file_name":"IMG_0707.JPG",
+    "date":"2018-03-12",
+    "time":"3:27 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9761,40.7612 ]
+    },
+    "properties": {
+    "file_name":"IMG_0708.JPG",
+    "date":"2018-03-12",
+    "time":"3:31 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9761,40.7612 ]
+    },
+    "properties": {
+    "file_name":"IMG_0709.JPG",
+    "date":"2018-03-12",
+    "time":"3:31 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9761,40.7612 ]
+    },
+    "properties": {
+    "file_name":"IMG_0710.JPG",
+    "date":"2018-03-12",
+    "time":"3:35 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9765,40.7615 ]
+    },
+    "properties": {
+    "file_name":"IMG_0760.JPG",
+    "date":"2018-03-12",
+    "time":"4:14 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0765.JPG",
+    "date":"2018-03-12",
+    "time":"10:22 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0778.JPG",
+    "date":"2018-03-14",
+    "time":"11:16 PM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0782.JPG",
+    "date":"2018-03-14",
+    "time":"12:15 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9968,40.7298 ]
+    },
+    "properties": {
+    "file_name":"IMG_0783.JPG",
+    "date":"2018-03-14",
+    "time":"12:34 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9968,40.7298 ]
+    },
+    "properties": {
+    "file_name":"IMG_0785.JPG",
+    "date":"2018-03-14",
+    "time":"5:50 PM",
+    "content":"study",
+    "emotion":"Passive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0121,40.7111 ]
+    },
+    "properties": {
+    "file_name":"IMG_0786.JPG",
+    "date":"2018-03-14",
+    "time":"7:03 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0787.JPG",
+    "date":"2018-03-14",
+    "time":"8:33 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0798.JPG",
+    "date":"2018-03-15",
+    "time":"10:10 PM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0808.JPG",
+    "date":"2018-03-15",
+    "time":"8:15 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0810.JPG",
+    "date":"2018-03-16",
+    "time":"9:00 AM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0813.JPG",
+    "date":"2018-03-16",
+    "time":"8:26 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0814.JPG",
+    "date":"2018-03-17",
+    "time":"11:10 AM",
+    "content":"life",
+    "emotion":"Passive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0346,40.7265 ]
+    },
+    "properties": {
+    "file_name":"IMG_0841.JPG",
+    "date":"2018-03-18",
+    "time":"6:40 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9969,40.7298 ]
+    },
+    "properties": {
+    "file_name":"IMG_0852.JPG",
+    "date":"2018-03-19",
+    "time":"10:53 AM",
+    "content":"study",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9969,40.7298 ]
+    },
+    "properties": {
+    "file_name":"IMG_0853.JPG",
+    "date":"2018-03-19",
+    "time":"11:58 AM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9969,40.7298 ]
+    },
+    "properties": {
+    "file_name":"IMG_0854.JPG",
+    "date":"2018-03-19",
+    "time":"12:23 PM",
+    "content":"study",
+    "emotion":"Passive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9969,40.7298 ]
+    },
+    "properties": {
+    "file_name":"IMG_0855.JPG",
+    "date":"2018-03-19",
+    "time":"12:23 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9936,40.7298 ]
+    },
+    "properties": {
+    "file_name":"IMG_0861.JPG",
+    "date":"2018-03-19",
+    "time":"6:26 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9936,40.7298 ]
+    },
+    "properties": {
+    "file_name":"IMG_0863.JPG",
+    "date":"2018-03-19",
+    "time":"6:26 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0867.JPG",
+    "date":"2018-03-20",
+    "time":"9:39 AM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0873.JPG",
+    "date":"2018-03-21",
+    "time":"10:41 AM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0880.JPG",
+    "date":"2018-03-22",
+    "time":"1:40 PM",
+    "content":"life",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0882.JPG",
+    "date":"2018-03-22",
+    "time":"3:38 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9969,40.7298 ]
+    },
+    "properties": {
+    "file_name":"IMG_0883.JPG",
+    "date":"2018-03-23",
+    "time":"11:40 AM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0892.JPG",
+    "date":"2018-03-23",
+    "time":"7:30 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9923,40.7302 ]
+    },
+    "properties": {
+    "file_name":"IMG_0904.JPG",
+    "date":"2018-03-24",
+    "time":"1:12 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0923.JPG",
+    "date":"2018-03-25",
+    "time":"9:15 AM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0931.JPG",
+    "date":"2018-03-25",
+    "time":"9:48 AM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0939.JPG",
+    "date":"2018-03-25",
+    "time":"8:12 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0944.JPG",
+    "date":"2018-03-25",
+    "time":"9:31 AM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0353,40.7196 ]
+    },
+    "properties": {
+    "file_name":"IMG_0953.JPG",
+    "date":"2018-03-28",
+    "time":"9:44 AM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_0959.JPG",
+    "date":"2018-03-28",
+    "time":"9:09 PM",
+    "content":"life",
+    "emotion":"Passive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9965,40.7322 ]
+    },
+    "properties": {
+    "file_name":"IMG_0966.JPG",
+    "date":"2018-03-29",
+    "time":"11:43 AM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0351,40.7197 ]
+    },
+    "properties": {
+    "file_name":"IMG_0968.JPG",
+    "date":"2018-03-29",
+    "time":"5:20 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9939,40.7355 ]
+    },
+    "properties": {
+    "file_name":"IMG_0975.JPG",
+    "date":"2018-03-30",
+    "time":"2:57 PM",
+    "content":"study",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9939,40.7355 ]
+    },
+    "properties": {
+    "file_name":"IMG_0981.JPG",
+    "date":"2018-03-30",
+    "time":"3:18 PM",
+    "content":"study",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9939,40.7355 ]
+    },
+    "properties": {
+    "file_name":"IMG_0986.JPG",
+    "date":"2018-03-30",
+    "time":"3:22 PM",
+    "content":"study",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9939,40.7355 ]
+    },
+    "properties": {
+    "file_name":"IMG_0987.JPG",
+    "date":"2018-03-30",
+    "time":"3:52 PM",
+    "content":"study",
+    "emotion":"Positive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_0990.JPG",
+    "date":"2018-03-30",
+    "time":"5:14 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_0991.JPG",
+    "date":"2018-03-30",
+    "time":"5:14 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_0993.JPG",
+    "date":"2018-03-30",
+    "time":"5:20 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_0994.JPG",
+    "date":"2018-03-30",
+    "time":"5:36 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_0997.JPG",
+    "date":"2018-03-30",
+    "time":"5:36 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_0998.JPG",
+    "date":"2018-03-30",
+    "time":"5:55 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9869,40.7479 ]
+    },
+    "properties": {
+    "file_name":"IMG_0999.JPG",
+    "date":"2018-03-30",
+    "time":"7:24 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0351,40.7197 ]
+    },
+    "properties": {
+    "file_name":"IMG_1001.JPG",
+    "date":"2018-03-31",
+    "time":"11:07 AM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0351,40.7197 ]
+    },
+    "properties": {
+    "file_name":"IMG_1003.JPG",
+    "date":"2018-04-01",
+    "time":"10:41 AM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9934,40.7295 ]
+    },
+    "properties": {
+    "file_name":"IMG_1020.JPG",
+    "date":"2018-04-02",
+    "time":"2:48 PM",
+    "content":"life",
+    "emotion":"Passive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9934,40.7295 ]
+    },
+    "properties": {
+    "file_name":"IMG_1022.JPG",
+    "date":"2018-04-02",
+    "time":"6:05 PM",
+    "content":"study",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_1023.JPG",
+    "date":"2018-04-02",
+    "time":"11:46 PM",
+    "content":"food",
+    "emotion":"Passive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_1028.JPG",
+    "date":"2018-04-03",
+    "time":"10:19 AM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_1032.JPG",
+    "date":"2018-04-03",
+    "time":"7:05 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_1036.JPG",
+    "date":"2018-04-03",
+    "time":"9:37 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_1037.JPG",
+    "date":"2018-04-03",
+    "time":"9:37 PM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_1039.JPG",
+    "date":"2018-04-04",
+    "time":"11:25 AM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9935,40.7298 ]
+    },
+    "properties": {
+    "file_name":"IMG_1043.JPG",
+    "date":"2018-04-04",
+    "time":"4:10 PM",
+    "content":"study",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_1047.JPG",
+    "date":"2018-04-03",
+    "time":"3:15 PM",
+    "content":"food",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7419 ]
+    },
+    "properties": {
+    "file_name":"IMG_1048.JPG",
+    "date":"2018-04-06",
+    "time":"10:42 AM",
+    "content":"selfie",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9896,40.7397 ]
+    },
+    "properties": {
+    "file_name":"IMG_1049.JPG",
+    "date":"2018-04-06",
+    "time":"11:20 AM",
+    "content":"study",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9896,40.7397 ]
+    },
+    "properties": {
+    "file_name":"IMG_1050.JPG",
+    "date":"2018-04-06",
+    "time":"11:20 AM",
+    "content":"study",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9896,40.7397 ]
+    },
+    "properties": {
+    "file_name":"IMG_1051.JPG",
+    "date":"2018-04-06",
+    "time":"11:25 AM",
+    "content":"life",
+    "emotion":"none"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9896,40.7397 ]
+    },
+    "properties": {
+    "file_name":"IMG_1052.JPG",
+    "date":"2018-04-06",
+    "time":"11:27 AM",
+    "content":"study",
+    "emotion":"none"
+    }
+  }
+]
+}
